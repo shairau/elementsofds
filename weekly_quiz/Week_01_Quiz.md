@@ -1,5 +1,7 @@
 # EODS-F23 Week 1 Quiz
 
+*** Not to be submitted or graded ***
+
 Note: Below, commands beginning with `$` indicate execution at the command line. You don't need to enter this character. Your terminal prompt may end in something different, like a `>`.
 
 ## Part 1: Install git and Clone the Course Repo
@@ -14,6 +16,7 @@ Note: Below, commands beginning with `$` indicate execution at the command line.
 3.   Navigate to a folder where you keep your projects. Example:
 
         $ cd /home/your_name/proj/
+
 
 4.  Clone the course repo from https://github.com/AndiCupallariCU/eods-f2023.git
 
