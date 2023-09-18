@@ -1,4 +1,4 @@
-name: eods-f22
+name: eods-f23
 channels: 
     - conda-forge
     - nodefaults
